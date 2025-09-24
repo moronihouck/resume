@@ -15,6 +15,11 @@ contact:
   - icon: "fa-github"
     text: "moronihouck"
     link: "https://github.com/moronihouck"
+education:
+  - university: "Beijing Geely University"
+    duration: "2004 – 2008"
+    location: "Beijing, China"
+    major: "B.A. in Business English"
 
 skills:
   - title: "Team Management"
