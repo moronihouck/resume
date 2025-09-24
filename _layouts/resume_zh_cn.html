@@ -27,27 +27,7 @@ layout: default
         </div>
       </header>
 
-      <section id="education">
-        <div class="section-title">
-          教育
-        </div>
-        <div class="section-content">
-          {% for edu in site.data.resume_zhcn.education %}
-          <div class="block">
-            <div class="block-title">
-              {{ edu.university }}
-            </div>
-            <div class="block-subtitle">
-              {{ edu.duration }} | {{ edu.location }}
-            </div>
-            <div class="block-content">
-              {{ edu.major }}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </section>
-
+        
       <section id="skills">
         <div class="section-title">
           专业技能
@@ -81,6 +61,28 @@ layout: default
             </div>
             <div class="block-content">
               {{ exp.description }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
+    
+      <section id="education">
+        <div class="section-title">
+          教育
+        </div>
+        <div class="section-content">
+          {% for edu in site.data.resume_zhcn.education %}
+          <div class="block">
+            <div class="block-title">
+              {{ edu.university }}
+            </div>
+            <div class="block-subtitle">
+              {{ edu.duration }} | {{ edu.location }}
+            </div>
+            <div class="block-content">
+              {{ edu.major }}
             </div>
           </div>
           {% endfor %}
