@@ -1,46 +1,37 @@
 title: "简历"
-name: "王小二"
-jobtitle: "高级软件研发工程师"
+name: "耿仁鑫"
+jobtitle: 
 contact:
   - icon: fa-envelope
-    text: wangxiao@er.com
+    text: houckmg@gmail.com
   - icon: fa-phone-square
-    text: (+86) 13800138000
+    text: (+86) 323-546-6608
   - icon: fa-globe
-    text: wangxiaoer.com
-    link: https://crispgm.github.io/resume/resume_zh-CN.html
+    text: geng.com
+    link: https://moronihouck.github.io/resume/resume_zh-CN.html
   - icon: fa-github
-    text: wangxiaoer
-    link: https://github.com/crispgm/resume
-education:
-  - university: "攻城科技大学"
-    duration: "2011/07 - 2012/12"
-    location: "北京"
-    major: "工学硕士，计算机科学与技术"
-  - university: "攻城大学"
-    duration: "2007/08 - 2011/06"
-    location: "南京"
-    major: "工学学士，计算机科学与技术"
+    text: moronihouck
+    link: https://moronihouck.github.io/resume/resume_zh-CN.html
+experience:
+  - title: "总经理"
+    duration: "2014 - 2024"
+    company: "杭州斯塔科技有限公司"
+    description: "50人公司整体运营和管理，主要经营跨境电商业务，亚马逊，速卖通，ebay,wish等平台，峰值月销量超过1百万美元"
+  - title: "数字流量经理"
+    duration: "2010/07 - 2013/10"
+    company: "阿里巴巴速卖通"
+    description: "负责速卖通在google shopping, being shopping的feed traffic的获取，通过卖家自动化feed获取日均20万UV的流量"
+  - title: "买家运营"
+    duration: "2008/07 - 2009/12"
+    company: "兰亭集势 lightinthebox.com"
+    description: "买家CRM的创建和应用，帮助公司进行数据化营销；客服ticket系统的创建，客诉系统的流程化"
 skills:
-  - title: "程序设计"
+  - title: "团队管理"
     items: "C/C++, Java, Python, Ruby, PHP, HTML/CSS, JavaScript, Vue"
   - title: "计算机系统"
     items: "Linux/Unix, 设计模式, 敏捷开发, 面向对象, 数据库设计, 多线程编程"
   - title: "其它"
     items: "Sublime Text, git, shell"
-experience:
-  - title: "高级研发工程师"
-    duration: "2016/06 - 至今"
-    company: "T 公司"
-    description: "我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。"
-  - title: "研发工程师"
-    duration: "2013/01 - 2016/05"
-    company: "A 公司"
-    description: "我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。"
-  - title: "研发工程师（实习）"
-    duration: "2011/02 - 2012/12"
-    company: "B 公司"
-    description: "我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。"
 projects:
   - name: "Crisp Resume"
     description: "一个基于 Jekyll 的极简风格响应式简历模板"
@@ -50,6 +41,6 @@ projects:
     contribution: "创建者和维护者"
 languages:
   - name: "英语"
-    proficiency: "工作熟练"
+    proficiency: "熟练"
   - name: "中文"
     proficiency: "母语"
