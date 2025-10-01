@@ -23,13 +23,34 @@ education:
 
 skills:
   - title: "Team Management"
-    items: "Data-driven team leadership; KPI design; process and system optimization to improve business efficiency"
+    items:
+      - "Data-driven leadership with experience in setting clear KPIs and aligning team goals with business objectives"
+      - "Building and mentoring cross-functional teams, fostering collaboration and improving engagement"
+      - "Designing and optimizing workflows and systems to enhance operational efficiency and scalability"
+
   - title: "Computer Systems"
-    items: "Office Suite, Python, JavaScript"
+    items:
+      - "Proficient in Microsoft Office Suite (Excel advanced functions, PowerPoint for executive reporting, Word for documentation)"
+      - "Programming knowledge in Python (data cleaning, automation scripts, API integration)"
+      - "JavaScript for web interactivity and dashboard prototyping"
+      - "Comfortable with cross-platform collaboration tools and cloud-based productivity systems"
+
   - title: "Data Analysis"
-    items: 
-      - "Strong capability in business datafication: turning raw data into actionable insights for decision-making" 
+    items:
+      - "Strong capability in business datafication: turning raw data into actionable insights for decision-making"
       - "Experienced in designing automated reporting systems and dashboards to monitor key metrics in real time"
+      - "Knowledgeable in process automation with Python scripting and workflow tools, reducing manual workloads and errors"
+      - "Able to translate complex data into clear, executive-friendly presentations for stakeholders"
+      - "Applying e-commerce data to forecast demand trends, guide inventory planning, and inform supply chain decisions"
+
+  - title: "Supply Chain Management"
+    items:
+      - "Supplier and factory coordination, from vendor selection to performance monitoring"
+      - "Payment term negotiation and accounts period management to optimize cash flow"
+      - "Production scheduling and lead-time control to ensure on-time delivery and minimize delays"
+      - "Aligning production and logistics rhythm with e-commerce sales data, ensuring agile response to market demand"
+      - "End-to-end supply chain visibility, risk management, and cost optimization strategies"
+
 experience:
   - title: "General Manager"
     duration: "2014 – 2024"
