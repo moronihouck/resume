@@ -27,9 +27,9 @@ skills:
   - title: "Computer Systems"
     items: "Office Suite, Python, JavaScript"
   - title: "Data Analysis"
-    items: |
-      • Strong capability in business datafication: turning raw data into actionable insights for decision-making  
-      • Experienced in designing automated reporting systems and dashboards to monitor key metrics in real time
+    items: 
+      - Strong capability in business datafication: turning raw data into actionable insights for decision-making  
+      - Experienced in designing automated reporting systems and dashboards to monitor key metrics in real time
 experience:
   - title: "General Manager"
     duration: "2014 – 2024"
