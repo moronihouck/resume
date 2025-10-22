@@ -69,16 +69,22 @@ experience:
     description: |
       <ul>
         <li>Managed Google Shopping &amp; Bing Shopping product feeds for key e-commerce accounts, aligning platform operations with account goals and customer experience.</li>
-        <li>Automated feed ingestion, scheduling, and error monitoring; achieved ~<strong>200K daily UV</strong> while keeping pricing/availability accurate across channels.</li>
+        <li>Automated feed ingestion, scheduling, and error monitoring; achieved ~200K daily UV while keeping pricing/availability accurate across channels.</li>
         <li>Synchronized promotions and traffic ramp with on-hand and OTW inventory by coordinating suppliers’ production and shipment cadence, reducing stockouts and excess.</li>
         <li>Built SKU-level dashboards (Excel) for CTR/CVR/ROAS and sell-through/open orders; translated insights into PO and shipment adjustments to maintain optimal inventory.</li>
       </ul>
   - title: "Buyer Operations"
     duration: "2008/07 – 2009/12"
     company: "LightInTheBox (Lanting Technology) — lightinthebox.com"
-    description: >
-      Built and implemented buyer CRM for data-driven marketing; created the customer service ticket
-      system and streamlined complaint-handling workflows.
+    description: |
+      <ul>
+        <li>Managed key overseas B2B clients for <em>LightInTheBox.com</em>, driving sales growth and ensuring smooth order fulfillment across multiple regions.</li>
+        <li>Built and implemented a buyer CRM system to centralize client data and enable data-driven account management and remarketing.</li>
+        <li>Created a customer service ticket workflow to streamline issue resolution and improve response time for high-value international accounts.</li>
+        <li>Collaborated with product, logistics, and marketing teams to develop customized offers and maintain client satisfaction for repeat business.</li>
+      </ul>
+
+      
 
 languages:
   - name: "English"
