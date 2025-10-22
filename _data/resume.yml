@@ -55,7 +55,7 @@ experience:
     description: |
      Overall company operations and management for a cross-border e-commerce business across Amazon,
      AliExpress, eBay, and Wish. Led a 30-person team with peak monthly sales exceeding USD 1M.
-     Built private brands including Comho and Sitadesk. <br><br>
+     Built private brands including Comho and Sitadesk. <br>
        <ul>
          <li>Managed multiple Amazon Seller Central accounts overseeing end-to-end operations across U.S. and international markets.</li>
          <li>Analyzed product performance and inventory data to forecast demand and adjust supplier production and shipment schedules.</li>
@@ -66,9 +66,13 @@ experience:
   - title: "Digital Traffic Manager"
     duration: "2010/07 – 2013/10"
     company: "Alibaba Group — AliExpress (aliexpress.com)"
-    description: >
-      Responsible for acquiring feed traffic via Google Shopping and Bing Shopping. Achieved ~200,000
-      daily UV through automated seller feeds.
+    description: |
+      <ul>
+        <li>Managed Google Shopping &amp; Bing Shopping product feeds for key e-commerce accounts, aligning platform operations with account goals and customer experience.</li>
+        <li>Automated feed ingestion, scheduling, and error monitoring; achieved ~<strong>200K daily UV</strong> while keeping pricing/availability accurate across channels.</li>
+        <li>Synchronized promotions and traffic ramp with on-hand and OTW inventory by coordinating suppliers’ production and shipment cadence, reducing stockouts and excess.</li>
+        <li>Built SKU-level dashboards (Excel) for CTR/CVR/ROAS and sell-through/open orders; translated insights into PO and shipment adjustments to maintain optimal inventory.</li>
+      </ul>
   - title: "Buyer Operations"
     duration: "2008/07 – 2009/12"
     company: "LightInTheBox (Lanting Technology) — lightinthebox.com"
